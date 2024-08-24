@@ -1,2 +1,2 @@
 import streamlit as st
-st.write('Fuck YOU')
+st.write('Hello')
